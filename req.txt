@@ -1,0 +1,29 @@
+# Core dependencies for data handling and numerical operations
+numpy
+joblib
+
+# Image processing
+opencv-python
+
+# Core Machine Learning framework
+scikit-learn
+
+# Gradient Boosting library
+catboost
+
+# Deep Learning framework
+# For CPU-only installation:
+torch
+torchvision
+# For GPU installation (uncomment the line below and ensure CUDA is installed):
+# torch --index-url https://download.pytorch.org/whl/cu118
+
+# Medical Image Datasets
+medmnist
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Progress bars
+tqdm
